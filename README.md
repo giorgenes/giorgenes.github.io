@@ -3,3 +3,9 @@
 
 # giorgenes.github.io
 
+```sh
+yarn install
+node index.js
+```
+
+
